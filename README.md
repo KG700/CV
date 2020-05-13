@@ -12,7 +12,7 @@ realised I would love to do this as my career. Over the past eight years I have 
 and stakeholder management, project delivery and team-building. Now that I have permament residency in the UK (and not reliant
 on employer sponsorship) I am now able to pursue a career in software development.
 
-#Skills
+## Skills
 
 #### Teamwork & Collaboration
 As an Econometrician I lead a team of up to 5 colleagues that delivered projects successfully and on time.
@@ -31,7 +31,7 @@ I'm a strong communicator, able to easily adapt my style to suitable audiences s
 As an Econometrician is was important to be able to communicate technical details to a non-technical audience which I was able
 to do successfully.
 
-#Education
+## Education
 
 #### Makers Academy (January 2020 to May 2020)
 
@@ -54,7 +54,7 @@ to do successfully.
 - Bachelor of Commerce in Economics
 - Bachelor of Arts in Psycohology
 
-#Experience
+## Experience
 
 **Sky Ltd** (June 2015 to December 2019)    
 *Principal Econometrician (March 2017 to December 2019)  
@@ -77,7 +77,7 @@ new challenge with great enthusiasm, building macros that helped make my job eas
 stakeholders, plus I also built macros at home for fun.
 
 
-#Hobbies
+## Hobbies
 
 - Reading
 - Watching Netflix
