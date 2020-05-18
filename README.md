@@ -2,34 +2,41 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
-I am an enthusiastic, positive and self-motivated person, who enjoys taking on new challenges. I actively innovate and
-seek opportunities to improve work processes and operations. I also love working in teams; enjoying bouncing ideas off
-co-workers and achieving joint goals.
+I am an enthusiastic, positive and self-motivated person, who enjoys taking on new challenges. I enjoy developing my technical knowledge which has lead to many successes in my past. A career in software development excites me due to the endless possible areas to learn. I also love working in teams; enjoying bouncing ideas off co-workers and achieving joint goals. Over the past eight years I have also developed other skills such as personal and stakeholder management, project delivery and team-building.
 
 I was first introduced to programming eight years ago in a previous job. Whilst not a requirement for the role I became
-passionate about coding as it became a great outlet for my creative energies and passion for problem solving. I soon
-realised I would love to do this as my career. Over the past eight years I have also developed other skills such as personal
-and stakeholder management, project delivery and team-building. Now that I have permament residency in the UK (and not reliant
-on employer sponsorship) I am now able to pursue a career in software development.
+passionate about coding as it was a great outlet for my creative energies and passion for problem solving. I soon
+realised I would love to do this as my career. Completing the Makers Academy software development bootcamp was my first step towards changing my career. I now look forward to building on what I've learnt in my quest to becoming a successful software developer.
+
 
 ## Skills
 
 #### Teamwork & Collaboration
-As an Econometrician I lead a team of up to 5 colleagues that delivered projects successfully and on time.
-I did this by creating a nurturing team environment where all members felt happy to contribute to team discussions and
-everyone respected each others contributions. I also instilled in the team a shared goal of meeting the timing plan goals,
-which we met by keeping track of everyone's progress and encouraging the team to help out when others have fallen behind.
+I enjoy working in teams and work hard to ensure my team is happy, engaged and collaborating with each other. As an Econometrician I lead a team of up to 5 colleagues that delivered projects successfully and on time. Being a team leader helped me to become a better team player because it was my responsibility to think about each member of the team. I made sure each person was heard and treated with respect, I knew what areas each person wanted to develop and did my best to ensure they were given appropriate opportunities. I also actively encouraged my team to help and ask for help from each other, which cultivated a collaborative and supportive environment.
 
 #### Problem Solving
 I've always enjoyed solving problems. One example of this is at Sky where I became known as the expert at media optimisation.
-This involves using out our Econometric models results to work out how Sky could plan their media campaigns better. Sky is
+This involved using our Econometric models results to work out how Sky could plan their media campaigns better. Sky is
 the UK's biggest advertiser, so this was a huge challenge. It allowed me to be creative and write Excel-based programmes using
-vba to create user-friendly and efficient methods of solving this problem.
+VBA to create user-friendly and efficient methods of solving this problem.
 
 #### Communication
 I'm a strong communicator, able to easily adapt my style to suitable audiences such as colleagues, managers and stakeholders.
-As an Econometrician is was important to be able to communicate technical details to a non-technical audience which I was able
-to do successfully.
+As an Econometrician it was important to be able to communicate technical details to a non-technical audiences which I was able
+to do successfully. It was also important as a team leader to communicate clearly to my team to ensure everyone was working towards the same goals.
+
+#### Time management
+I am very effective at organising my time to achieve my workload in a timely manner. I think it's really important to have a clear idea of what needs to be ...
+I also instilled in the team a shared goal of meeting the timing plan goals,
+which we met by keeping track of everyone's progress and encouraging the team to help out when others had fallen behind.
+
+## Projects
+
+Name      | Github Link                                         | Tech Stack                 |
+---       |----                                                 |----                        |
+Mix Tape  |[Link](https://github.com/KG700/mix-tape)            | React, Rails, Spotify APIs |
+Instagram |[Link](https://github.com/KG700/instagram-challenge) | Rails                      |
+Chitter   |[Link](https://github.com/KG700/chitter-challenge)   | Sinatra, Postgresql        |
 
 ## Education
 
