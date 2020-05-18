@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
-I am an enthusiastic, positive and self-motivated person, who enjoys taking on new challenges. I enjoy developing my technical knowledge which has lead to many successes in my past. A career in software development excites me due to the endless possible areas to learn. I also love working in teams; enjoying bouncing ideas off co-workers and achieving joint goals. Over the past eight years I have also developed other skills such as personal and stakeholder management, project delivery and team-building.
+I am an enthusiastic, positive and self-motivated person, who enjoys taking on new challenges. I enjoy developing my technical knowledge which has lead to many successes in my past. A career in software development excites me due to the endless possible areas to learn. I also love working in teams; bouncing ideas off co-workers and achieving joint goals. Over the past eight years I have also developed other skills such as personal and stakeholder management, project delivery and team-building.
 
 I was first introduced to programming eight years ago in a previous job. Whilst not a requirement for the role I became
 passionate about coding as it was a great outlet for my creative energies and passion for problem solving. I soon
@@ -26,8 +26,7 @@ As an Econometrician it was important to be able to communicate technical detail
 to do successfully. It was also important as a team leader to communicate clearly to my team to ensure everyone was working towards the same goals.
 
 #### Time management
-I am very effective at organising my time to achieve my workload in a timely manner. I think it's really important to have a clear idea of what needs to be ...
-I also instilled in the team a shared goal of meeting the timing plan goals,
+I am very effective at organising my time to achieve my workload in a timely manner. I think it's really important to have a clear idea of what needs to be achieved at the different stages of a project. As a team leader, I instilled in my team a shared goal of meeting the timing plan goals,
 which we met by keeping track of everyone's progress and encouraging the team to help out when others had fallen behind.
 
 ## Projects
@@ -44,7 +43,7 @@ Chitter   |[Link](https://github.com/KG700/chitter-challenge)   | Sinatra, Postg
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
 
 #### Auckland University (2008 to 2010)
